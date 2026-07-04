@@ -1,18 +1,11 @@
 <img width="2000" height="600" alt="Creative Studio Name LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/594e78b9-d9dc-4756-a323-9dede4d5cd54" />
 
-## Hi there 👋
+## Hey 👋 I'm Harshit
 
-<!--
-**gautamharshit-93/gautamharshit-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ AI/ML enthusiast with a soft spot for Full-Stack dev.  
+🛠️ Turning ideas into products using React, Python & LLMs.  
+🧩 Into RAG, NLP, CV, Cloud & anything that makes life smarter.  
+🏆 Hackathons • Research • Building > Watching Tutorials  
+☕ Probably debugging... or training another model.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ML related solutions
-- 🌱 I’m currently learning cloud computing
-- 👯 I’m looking to collaborate on scalable projects
-- 🤔 I’m looking for help with my community collaboration
-- 💬 Ask me about any project on my repo
-- 📫 How to reach me: gautamharshit93@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: The term "computer bug" comes from a literal insect! In 1947, a moth was found trapped in a relay of the Harvard Mark II computer, causing a system malfunction.
--->
+📬 **gautamharshit93@gmail.com**
